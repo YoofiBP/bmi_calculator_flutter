@@ -2,7 +2,7 @@
 
 ## Our Goal
 
-The objective of this tutorial was to customise Flutter Widgets to achieve beautiful user interface designs. 
+The objective of this project was to customise Flutter Widgets to achieve beautiful user interface designs. 
 
 
 ## Demo GIF

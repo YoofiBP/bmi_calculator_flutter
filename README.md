@@ -1,6 +1,6 @@
 # BMI Calculator 💪
 
-## Our Goal
+## Goal
 
 The objective of this project was to customise Flutter Widgets to achieve beautiful user interface designs. 
 
